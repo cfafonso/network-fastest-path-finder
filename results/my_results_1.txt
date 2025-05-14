@@ -1,0 +1,26 @@
+﻿# Coral Bay - Brookside
+40, Coral Bay, Thornhill, Brookside
+70, Coral Bay, New Haven, Northfield, Stonebridge, Brookside
+70, Coral Bay, Brookside
+# Kingsley - Piedmont
+Piedmont out of the network
+# Thornhill - Stonebridge
+20, Thornhill, Brookside, Stonebridge
+60, Thornhill, Brookside, Columbia, Ashford, Misty Hills, Stonebridge
+60, Thornhill, Brookside, Columbia, Ashford, Stonebridge
+# Cedar Heights - Brookside
+35, Cedar Heights, Fairview, Stonebridge, Brookside
+35, Cedar Heights, Northfield, Stonebridge, Brookside
+55, Cedar Heights, Kingsley, New Haven, Northfield, Stonebridge, Brookside
+# Clayton - Northfield
+Clayton out of the network
+# New Haven - Fairview
+30, New Haven, Northfield, Stonebridge, Fairview
+40, New Haven, Kingsley, Cedar Heights, Fairview
+40, New Haven, Northfield, Cedar Heights, Fairview
+# Pinecrest - Stonebridge
+35, Pinecrest, Riverdale, Ashford, Misty Hills, Stonebridge
+35, Pinecrest, Riverdale, Ashford, Stonebridge
+40, Pinecrest, Columbia, Brookside, Stonebridge
+# Piedmont - Clayton
+Piedmont and Clayton out of the network

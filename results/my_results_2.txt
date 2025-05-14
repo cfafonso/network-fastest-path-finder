@@ -1,0 +1,34 @@
+﻿# Highland - Jade Valley
+55, Highland, Bluewater, Maple Ridge, Cliffside, Jade Valley
+55, Highland, Riverside, Redwood, Pembroke, Jade Valley
+55, Highland, Riverside, Redwood, Jade Valley
+# Misty Hills - Bluewater
+Misty Hills and Bluewater do not communicate
+# Cliffside - Midvale
+40, Cliffside, Pembroke, Portside, Midvale
+45, Cliffside, Pembroke, Redwood, Linwood, Midvale
+45, Cliffside, Pembroke, Midvale
+# Linwood - Highland
+40, Linwood, Riverside, Highland
+45, Linwood, Riverside, Cloverdale, Bluewater, Highland
+45, Linwood, Redwood, Riverside, Highland
+# Maple Ridge - Redwood
+35, Maple Ridge, Bluewater, Cloverdale, Riverside, Redwood
+35, Maple Ridge, Cliffside, Pembroke, Redwood
+40, Maple Ridge, Cliffside, Jade Valley, Pembroke, Redwood
+# Bluewater - Pembroke
+30, Bluewater, Cloverdale, Riverside, Redwood, Pembroke
+35, Bluewater, Cloverdale, Riverside, Linwood, Redwood, Pembroke
+40, Bluewater, Maple Ridge, Cliffside, Pembroke
+# Fairview - Portside
+Fairview and Portside do not communicate
+# Blackwater - Riverside
+Blackwater out of the network
+# Midvale - Maple Ridge
+60, Midvale, Linwood, Riverside, Cloverdale, Bluewater, Maple Ridge
+60, Midvale, Portside, Pembroke, Cliffside, Maple Ridge
+65, Midvale, Linwood, Redwood, Riverside, Cloverdale, Bluewater, Maple Ridge
+# Portside - Riverside
+30, Portside, Pembroke, Redwood, Riverside
+35, Portside, Pembroke, Redwood, Linwood, Riverside
+50, Portside, Pembroke, Jade Valley, Redwood, Riverside
