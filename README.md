@@ -63,14 +63,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 network-fastest-path-finder/
 ├── classes/
-│   ├── Connection.py
-│   ├── Network.py
-│   ├── Search.py
-│   ├── Station.py
-│   └── Time.py
+    ├── Connection.py
+    ├── Network.py
+    ├── Search.py
+    ├── Station.py
+    └── Time.py
 ├── results/
-│   ├── my_results_1.txt
-│   └── my_results_2.txt
+    ├── my_results_1.txt
+    └── my_results_2.txt
 ├── LICENSE
 ├── README.md
 ├── constants.py
