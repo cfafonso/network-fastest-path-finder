@@ -9,19 +9,23 @@ This program includes code adapted from Chapter 14 of "Introduction to Computati
 - Python 3.x
 
 
-## Usage
+## Installation
 
-1. Run the tool by using the following command line instruction:  
-    python main.py input_file_1.txt input_file_2.txt output_file.txt
+### 1. Clone or download the repository
 
-  where:
-  - input_file_1.txt is a text file such as `my_network.txt` containing information about the network.
-  - input_file_2.txt is a text file such as `my_stations_1.txt` or `my_stations_2.txt` containing the pairs of stations (one per line).
-  - output_file.txt is the name of a text file such as `my_results_1.txt` or `my_results_2.txt` to which the results are written for each pair of stations in `input_file_2.txt`.
+```git clone https://github.com/cfafonso/network-fastest-path-finder.git```
 
-2. The tool will produce one new .txt file, such as `my_results_1.txt` or `my_results_2.txt`, inside the `results` folder.
+### 2. Usage
 
-3. A diagram of the network defined in `my_network.txt` can be found in `network_diagram.png`.
+- Run the tool by using the following command line instruction:
+   ```python main.py input_file_1.txt input_file_2.txt output_file.txt```
+
+  
+  `input_file_1.txt` is a text file such as `my_network.txt` containing information about the network, `input_file_2.txt` is a text file such as `my_stations_1.txt` or `my_stations_2.txt` containing the pairs of stations (one per line), and `output_file.txt` is the name of a text file such as `my_results_1.txt` or `my_results_2.txt` to which the results are written for each pair of stations in `input_file_2.txt`.
+
+- The tool will produce one new text file, such as `my_results_1.txt` or `my_results_2.txt`, inside the `results` folder.
+
+- A diagram of the network defined in `my_network.txt` can be found in `network_diagram.png`.
 
 
 ## Specification of the Project
