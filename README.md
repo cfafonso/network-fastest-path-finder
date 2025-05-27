@@ -24,7 +24,7 @@ This program includes code adapted from Chapter 14 of "Introduction to Computati
 3. A diagram of the network defined in `my_network.txt` can be found in `network_diagram.png`.
 
 
-## Specification of the project
+## Specification of the Project
 
 ### Input
 
